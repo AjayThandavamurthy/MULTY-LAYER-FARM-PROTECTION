@@ -4,7 +4,7 @@ This project is designed to protect farms using a multi-layer sensor-based syste
 
 ## Live Model
 
-![Demo Model](images/Demo Model.jpg)
+![Demo Model](images/Demo%20Model.jpg)
 
 ## Features
 
