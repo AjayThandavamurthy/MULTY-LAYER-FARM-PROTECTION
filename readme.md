@@ -2,6 +2,10 @@
 
 This project is designed to protect farms using a multi-layer sensor-based system. It incorporates ultrasonic sensors for distance measurement, infrared (IR) sensors for motion detection, and a camera-based system to send images to a Telegram bot for monitoring. The system is designed to detect obstacles or motion and trigger alerts via a buzzer, while sending images through the ESP32-CAM to keep you informed in real-time.
 
+## Live Model
+
+![Demo Model](Demo Model.jpg)
+
 ## Features
 
 - **Ultrasonic Sensors**: Measure distances to detect obstacles.
